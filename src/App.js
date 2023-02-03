@@ -17,7 +17,7 @@ function App({ signOut }) {
         <Heading level={1}>We now have Auth!</Heading>
       </Card>
       <Button onClick={signOut}>Sign Out</Button>
-    </View>
+    </View> 
   );
 }
 
